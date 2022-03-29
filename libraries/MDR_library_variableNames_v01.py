@@ -11,7 +11,7 @@ def get_nice_name(name_obj):
 
 ###  ID Propio
 
-proyect_id ={
+project_id ={
     "proyecto": "MDR",
     "Andres":"MRA",
     "Sara":"CFS",
